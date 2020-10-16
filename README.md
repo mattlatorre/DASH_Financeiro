@@ -1,3 +1,6 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/matheus-latorre-b4340112a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=grey)](https://github.com/mattlatorre/Portfolio)
+
 # Dashboard Financeiro
 
 <p align="center">
@@ -35,3 +38,5 @@ Para montar o modelo proposto foram utilizados diversos arquivos nos formatos .x
 <p align="center">
   <img src = "Dashboard Financeiro - DRE/Slide4.JPG" width=70%>
 </p>
+
+# 

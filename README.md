@@ -1,7 +1,7 @@
 # Dashboard Financeiro
 
 <p align="center">
-  <img src = "DRE.png" width=500>
+  <img src = "DRE.png" width=70%>
 </p>
 
 Muitos empreendedores que buscam profissionalizar a gestão de seus negócios provavelmente já se deparam com a sigla DRE. A Demonstração de Resultado do Exercício (DRE) é uma ferramenta que permite a análise da situação financeira. Com a DRE, líderes e gestores podem ter ciência sobre os lucros e prejuízos da empresa e, consequentemente, agir de forma a reverter os cenários negativos em tempo. 

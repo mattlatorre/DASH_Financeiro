@@ -12,9 +12,23 @@ Desta maneira, focando a maior parte do tempo em analisar os dados.
 Para montar o modelo proposto foram utilizados diversos arquivos nos formatos .xlsx e .csv, que foram extraídos do sistema interno da empresa. Todos os documentos podem ser obtidos no repositório atual.
 
 
+<p align="center">
+  <img src = "Dashboard Financeiro - DRE/Slide1.JPG" width=70%>
+</p>
+
+
+<p align="center">
+  <img src = "Dashboard Financeiro - DRE/Slide2.JPG" width=70%>
+</p>
+
+
+<p align="center">
+  <img src = "Dashboard Financeiro - DRE/Slide3.JPG" width=70%>
+</p>
 
 
 
 
-
-
+<p align="center">
+  <img src = "Dashboard Financeiro - DRE/Slide4.JPG" width=70%>
+</p>

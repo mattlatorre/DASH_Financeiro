@@ -21,10 +21,11 @@ Muitos empreendedores que buscam profissionalizar a gestão de seus negócios pr
 >Devido a importância dessa ferramenta, o **objetivo** do projeto foi elaborar um Dashboard que se automatiza o processo de criação da DRE e facilita a obtenção dos principais indicadores. 
 Desta maneira, focando a maior parte do tempo em analisar os dados.
 
-
-
+ É possivel acessar o Dashboard de forma interativa no link a seguir: **https://bit.ly/3eQuK2A**
 
 Para montar o modelo proposto foram utilizados diversos arquivos nos formatos .xlsx e .csv, que foram extraídos do sistema interno da empresa. Todos os documentos podem ser obtidos no repositório atual.
+
+
 
 #
 
